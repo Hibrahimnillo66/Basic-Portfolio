@@ -40,8 +40,9 @@ body {
 
 .links {
     float: right;
-    width: 30%;
+    width: 25%;
     margin-top: 25px;
+    text-align: right;
 }
 
 .container{
@@ -74,17 +75,40 @@ footer {
     margin-right: 20px;
 }
 
+#Contact {
+    
+}
+
 h1 {
     color: #4aaaa5;
-    margin-left: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-bottom: 2px solid #cccccc;
+    padding: 10px;
+    padding-left: 2px;
    
 }
 
 img {
-    margin: 20px;
+    margin: 50px;
+    float: left;
+    
 }
 
 p {
-    margin: 
+    margin-right: 50px;
+
     
+}
+
+a {
+    color: #cccccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
