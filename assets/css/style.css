@@ -35,6 +35,7 @@ body {
     text-align: center;
     float: left;
     padding: 20px;
+    border: none;
    
 }
 
@@ -132,4 +133,77 @@ input[type=text] {
 
 form {
     margin-left: 50px;
+    
+}
+
+#message {
+    padding:60px;
+    margin-bottom: 10px;
+    
+}
+
+.button {
+    margin-bottom: 20px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: none;
+    padding: 5px 20px 5px 20px;
+}
+
+#image1 #image2 #image3 #image4 #image5  {
+    position: relative;
+    
+   
+    
+}
+
+
+
+
+.text-block1 {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 150px;
+    background-color: #4aaaa5;
+    padding-right:100px;
+    padding-left: 100px;
+}
+
+.text-block2 {
+    position: absolute;
+    margin-left: 391px;
+    margin-top: 150px;
+    background-color: #4aaaa5;
+    padding-right: 97px;
+    padding-left: 95px;
+}
+
+.text-block3 {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 430px;
+    background-color: #4aaaa5;
+    padding-right: 97px;
+    padding-left: 95px;
+  
+}
+
+.text-block4 {
+    position: absolute;
+    margin-left: 391px;
+    margin-top: 430px;
+    background-color: #4aaaa5;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.text-block5 {
+    position: absolute;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 710px;
+    background-color: #4aaaa5;
+    padding-right:100px;
+    padding-left: 100px;
+  
 }
